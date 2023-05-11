@@ -1,6 +1,6 @@
 IOC - Inverted of Control
 
-In the normal way to run an object, it might be struggled with tightly dependency( the one declared dependency objects, create it in which recent object as the container)
+In a normal way to run an object, it might be struggled with tightly dependency( the one declared dependency objects, create it in which recent object as the container)
 If the dependency object has issued or been changed, the container object's to be changed as well.
 
 To fix that: we just need to use IOC desire pattern.
